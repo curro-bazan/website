@@ -32,7 +32,7 @@ const Home: NextPage = () => {
       </VideoBackground>
       <Layout>
         <ContentWrapper>
-          <Title>Welcome to My Space Blog</Title>
+          <Title>Welcome to My Space</Title>
           <p>Explore the universe through our articles!</p>
         </ContentWrapper>
       </Layout>
